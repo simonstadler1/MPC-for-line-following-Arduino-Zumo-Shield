@@ -13,7 +13,7 @@ motion-option change (true or false) · 1
   
 Kalman filter fusing Infrared sensory data with the motion model.
 Adaptable prediction horizon (n), though increasing the prediction horizon may require freeing up some more memory.
-Predefined path
+A predefined path is already saved to the program and can be found in the Position on Line file of the program.
 The program works on the processor ATmega328P @ 16 MHz, ~32 KB flash, ~2 KB SRAM.
 
 To use the program it is recommended to use the Arduino IDE program. Simply download it, and within the IDE program open the file main_file.ino from the program.
