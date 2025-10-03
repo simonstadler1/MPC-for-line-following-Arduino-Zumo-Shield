@@ -7,7 +7,7 @@ Tree-based MPC (discrete motion options) with the following cost-function set-up
   distance-to-path(m)· 300
   progress since last step(m) · 75
   motion-option change (true or false) · 1
-
+  
 Kalman filter fusing Infrared sensory data with the motion model.
 Adaptable prediction horizon (n), though increasing the prediction horizon may require freeing up some more memory.
 Predefined path
