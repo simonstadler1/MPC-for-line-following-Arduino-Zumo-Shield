@@ -1,5 +1,5 @@
 This project presents a model predictive Controller (MPC) for a low-cost, line-following robot on Arduino Uno using a tree-based MPC and a Kalman filter for sensor fusion.
-The mobile Robot used in this project is the Arduino Shield v1.2.
+The Arduino Uno R3 was used and the mobile Robot used in this project is the Arduino Shield v1.2.
 
 The program is optimized for tight RAM/flash budgets and real-time control and has the following features.
 
